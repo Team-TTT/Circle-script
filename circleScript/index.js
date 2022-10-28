@@ -118,7 +118,7 @@
 
     circleChild.open();
     circleChild.write(
-      `<!doctype html><html lang="en" style="width:100%;height:100%"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"/><title>Document</title><script defer="defer" src="https://cdn.jsdelivr.net/gh/Team-TTT/Circle-script@deploy3/circleApp/circle.js"></script></head><body style="width:100%;height:100%;margin:0;overflow:hidden"><div id="root" classname="circle-service"></div></body></html>`
+      `<!doctype html><html lang="en" style="width:100%;height:100%"><head><meta charset="UTF-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"/><title>Document</title><script defer="defer" src="https://cdn.jsdelivr.net/gh/Team-TTT/Circle-script@ttt/circleApp/circle.js"></script></head><body style="width:100%;height:100%;margin:0;overflow:hidden"><div id="root" classname="circle-service"></div></body></html>`
     );
     circleChild.close();
 
