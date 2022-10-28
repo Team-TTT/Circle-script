@@ -15,7 +15,7 @@
     script.type = "text/javascript";
     script.async = true;
     script.src =
-      "https://cdn.jsdelivr.net/gh/Team-TTT/Circle-script@deploy3/circleService/index.js";
+      "https://cdn.jsdelivr.net/gh/Team-TTT/Circle-script@ttt/circleScript/index.js";
     const firstScript = document.getElementsByTagName("script")[0];
     firstScript.parentNode.insertBefore(script, firstScript);
   }
