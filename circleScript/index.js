@@ -107,7 +107,7 @@
         opacity: 1;
         transform: scale(1);
       }
-`;
+    `;
 
     document.body.appendChild(coreCircle);
     document.body.appendChild(iframeCircle);
